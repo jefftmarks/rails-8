@@ -65,3 +65,5 @@ group :test do
 end
 
 gem "hotwire-spark", "~> 0.1.13", :group => :development
+
+gem "byebug", "~> 12.0"

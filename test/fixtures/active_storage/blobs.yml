@@ -1,0 +1,1 @@
+blob_peas: <%= ActiveStorage::FixtureSet.blob filename: "peas.jpg" %>
